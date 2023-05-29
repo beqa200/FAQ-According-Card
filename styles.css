@@ -21,6 +21,7 @@ body {
     #6463E7 100%);
     background-repeat: no-repeat;
     width: 100vw;
+    min-height: 100vh;
     overflow-x: hidden;
 }
 
